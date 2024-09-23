@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://kuxhpiy.github.io/sitemap/sitemap.txt
